@@ -1,0 +1,19 @@
+.capa{
+    width:100%;
+    height:20%;
+}
+
+.container {
+    margin: 0 auto; /* centraliza o conteúdo horizontalmente */
+    max-width: 1000px; /* define a largura máxima do conteúdo */
+    padding: 020 px; /* adiciona um espaço entre o conteúdo e as bordas */
+    text-align: justify; /* justifica o texto para criar um visual mais limpo */
+  }
+
+.rodape{
+    width:100%;
+    height:20%;
+}
+* {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
