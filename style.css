@@ -6,7 +6,7 @@
 .container {
     margin: 0 auto; /* centraliza o conteúdo horizontalmente */
     max-width: 1000px; /* define a largura máxima do conteúdo */
-    padding: 020 px; /* adiciona um espaço entre o conteúdo e as bordas */
+    padding: 010px; /* adiciona um espaço entre o conteúdo e as bordas */
     text-align: justify; /* justifica o texto para criar um visual mais limpo */
   }
 
@@ -14,6 +14,21 @@
     width:100%;
     height:20%;
 }
+
 * {
     font-family:Georgia, 'Times New Roman', Times, serif;
 }
+
+
+html {
+    font-size: 16px;
+}
+
+p {
+    font-size: 100%;
+}
+
+h3{
+    font-size: 120%;
+}
+
